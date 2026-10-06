@@ -17,8 +17,8 @@ GitHub Pages builds the website from `main` and `/docs`. After you push a change
 
 ## Purpose and sources
 
-Replace this paragraph with two or three sentences about your guide's audience and purpose. The first eight resources were supplied by COMPSS 211A. Name the resource you added and link to the official webpage you used to check it.
+The purpose is to guide whoever come to Berkeley and would like to have a great time. Added resource: Safewalk Escort，https://nightsafety.berkeley.edu/nightsafety/escort
 
 ## Website checks
 
-After publishing your changes, replace this paragraph with the live website link, the existing entry you improved, the new resource you added, and what you checked on the website. Say whether the displayed values match your CSV and whether the official links open the intended pages.
+https://yichen-zhang-maisongka.github.io/hw2/
