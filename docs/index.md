@@ -3,9 +3,9 @@ layout: default
 title: Hidden Berkeley
 ---
 
-# Hidden Berkeley
+# New to Berkeley
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+Berkeley is a nice place where you could have fun. Foods in Trader Joe's are pretty good.
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
